@@ -1,1 +1,3 @@
-# Web-Scraping-SUNEDU
+**La importancia de la extracción de datos y el web scraping: Retos y soluciones**
+
+La extracción de datos ha adquirido una relevancia crucial en el mundo actual, donde la información es el recurso más valioso. Web scraping es una de las técnicas más poderosas para obtener datos de fuentes en línea de forma automatizada, permitiendo a las organizaciones acceder a información que no está disponible de manera estructurada o que sería difícil de recopilar manualmente. En este artículo, abordaremos la importancia del web scraping, los desafíos que puede presentar y cómo funciona un código en Python utilizando Selenium para automatizar este proceso, ejemplificando con la extracción de datos de los postulantes al SERUMS en la región La Libertad, Perú, desde la página de la SUNEDU (https://enlinea.sunedu.gob.pe/).
